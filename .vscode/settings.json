@@ -1,0 +1,6 @@
+{
+	"C_Cpp.errorSquiggles": "disabled",
+	"isort.interpreter": [
+		"pip install prettytable"
+	]
+}
